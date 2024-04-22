@@ -1,9 +1,9 @@
 # Infinite-width Neural Networks: Initialization, Activation and Optimization
 A presentation of the book "The Principles of Deep Learning Theory"
 
-[Bilibili]: https://www.bilibili.com/video/BV1WT42127TF
-[Slide]: https://github.com/NorthForest233/Infinite-width-NNs/blob/master/Infinite-width%20Neural%20Networks.pdf
-[Book]: https://deeplearningtheory.com
+- Bilibili: https://www.bilibili.com/video/BV1WT42127TF
+- Slide: https://github.com/NorthForest233/Infinite-width-NNs/blob/master/Infinite-width%20Neural%20Networks.pdf
+- Book: https://deeplearningtheory.com
 
 ## Table of contents
 - [1/9] **Introduction**
